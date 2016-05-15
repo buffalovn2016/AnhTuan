@@ -1,0 +1,12 @@
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\bin\Debug\POS Software.exe.config
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\bin\Debug\POS Software.exe
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\bin\Debug\POS Software.pdb
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS Software.csprojResolveAssemblyReference.cache
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS_Software.Form1.resources
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS_Software.Properties.Resources.resources
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS Software.csproj.GenerateResource.Cache
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS Software.exe
+C:\Users\AnhTuan\AppData\Local\Temporary Projects\POS Software\obj\Debug\POS Software.pdb
+F:\github\AnhTuan\ứng dụng tính tiền\POS Software\POS Software\bin\Debug\POS Software.exe.config
+F:\github\AnhTuan\ứng dụng tính tiền\POS Software\POS Software\obj\Debug\POS Software.exe
+F:\github\AnhTuan\ứng dụng tính tiền\POS Software\POS Software\obj\Debug\POS Software.pdb
